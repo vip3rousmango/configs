@@ -87,7 +87,7 @@
     "*.html": "html"
   },
   "snyk.yesWelcomeNotification": false,
-  "snyk.token": "91f2fe62-27d7-40e7-8ede-33f2f605130a",
+  "snyk.token": "ENV.SNYK.TOKEN",
   "settingsSync.ignoredExtensions": [],
   "workbench.colorCustomizations": {},
   "terminal.integrated.allowMnemonics": true,
