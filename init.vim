@@ -49,10 +49,6 @@ colorscheme dracula
 set splitright
 set splitbelow
 
-" open new split panes to right and below
-set splitright
-set splitbelow
-
 " move line or visually selected block - alt+j/k
 inoremap <A-j> <Esc>:m .+1<CR>==gi
 inoremap <A-k> <Esc>:m .-2<CR>==gi
